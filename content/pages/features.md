@@ -7,16 +7,6 @@ sections:
     align: center
   - type: features_section
   
-      - title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 3 placeholder image
-        image_position: right
-        actions: []
 seo:
   title: Features
   description: This is the features page
