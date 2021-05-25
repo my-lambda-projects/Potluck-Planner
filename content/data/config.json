@@ -30,6 +30,14 @@
                 "label": "Contact Us",
                 "url": "https://github.com/FT-Potluck-Planner-5/Front-End/issues",
                 "style": "primary"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ],
         "logo": "images/eating.gif"
