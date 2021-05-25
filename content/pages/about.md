@@ -26,6 +26,7 @@ sections:
       - content/data/team/eleanor-carr.yaml
       - content/data/team/hanson-deck.yaml
       - content/data/team/gordon-norman.yaml
+      - content/data/team/person-psr16sl2h.json
 seo:
   title: Who We Are
   description: This is the about us page
