@@ -31,7 +31,8 @@
                 "url": "https://github.com/FT-Potluck-Planner-5/Front-End/issues",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/eating.gif"
     },
     "footer": {
         "has_nav": true,
