@@ -6,7 +6,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Features",
+                "label": "Signup",
                 "url": "/features",
                 "style": "link"
             },
