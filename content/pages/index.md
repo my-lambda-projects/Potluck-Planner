@@ -25,7 +25,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Get Started
+    title: Features
     features:
       - title: Sign Up
         content: >-
