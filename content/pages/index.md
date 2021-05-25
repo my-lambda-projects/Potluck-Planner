@@ -10,7 +10,7 @@ sections:
       In the world of social gatherings and potlucks the "Potluck Planner" is
       king. This is your place for all things pot luck.
     actions:
-      - label: Learn More
+      - label: Sign Up
         url: /features
         style: primary
     align: left
