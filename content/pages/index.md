@@ -35,7 +35,7 @@ sections:
         image_position: right
         actions:
           - label: Sign Up
-            url: /features
+            url: '#'
             style: secondary
       - title: Feature 1
         content: >-
