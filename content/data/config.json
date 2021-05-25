@@ -23,7 +23,8 @@
             {
                 "label": "Github",
                 "url": "https://github.com/FT-Potluck-Planner-5",
-                "style": "link"
+                "style": "link",
+                "new_window": true
             },
             {
                 "label": "Contact Us",
