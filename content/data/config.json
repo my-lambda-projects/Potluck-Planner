@@ -28,7 +28,7 @@
             },
             {
                 "label": "Contact Us",
-                "url": "/contact",
+                "url": "https://github.com/FT-Potluck-Planner-5/Front-End/issues",
                 "style": "primary"
             }
         ]
