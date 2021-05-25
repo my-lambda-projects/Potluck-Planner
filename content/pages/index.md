@@ -27,19 +27,6 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: Sign Up
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        align: left
-        image: images/profile.jpg
-        image_alt: Feature 1 placeholder image
-        image_position: right
-        actions:
-          - label: Sign Up
-            url: '#'
-            style: secondary
       - title: Feature 1
         content: >+
           As an organizer I can create an upcoming potluck and invite my friends
