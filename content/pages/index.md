@@ -55,7 +55,7 @@ sections:
           As an organizer I can adjust dates, times and locations of the potluck
 
         align: left
-        image: images/feature.svg
+        image: images/calendar.gif
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
